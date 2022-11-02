@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis Batuev
-- 👀 I’m interested in Data Science/Machine learning
+- 👀 I’m interested in Data Science/Machine learning/Data Analysis
 - 🌱 I’m currently learning Computer Vision
 - 📫 How to reach me denis.wm@outlook.com
 
